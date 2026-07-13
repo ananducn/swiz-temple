@@ -18,9 +18,9 @@ const manrope = Manrope({
 });
 
 export const metadata: Metadata = {
-  title: 'Shri Krishna Mandir — Indian Association in Switzerland',
+  title: 'Shri Krishna Mandir — Indian Association of New Zealand',
   description:
-    'Building a divine home for Lord Krishna in Switzerland — a landmark temple where Vedic tradition meets the serenity of the Swiss Alps.',
+    'Building a divine home for Lord Krishna in New Zealand — a landmark temple where Vedic tradition meets the serenity of the Southern Alps.',
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
